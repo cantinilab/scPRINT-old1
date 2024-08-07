@@ -147,7 +147,7 @@ We now explore the different usages of scPRINT:
 
 -> Refer to the embeddings and cell annotations section in [this notebook](./notebooks/cancer_usecase.ipynb).
 
-### I want to denoising my scRNAseq dataset:
+### I want to denoise my scRNAseq dataset:
 
 -> Refer to the Denoising of B-cell section in [this notebook](./notebooks/cancer_usecase.ipynb).
 
