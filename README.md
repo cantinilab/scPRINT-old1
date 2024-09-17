@@ -1,4 +1,4 @@
-⚠️ CALLED TEMP BECAUSE LOST ITS FORK CONNECTION TO jkobject/scPRINT (please see cantinilab/scPRINT)
+⚠️ CALLED OLD BECAUSE OF FORK ISSUES (please see cantinilab/scPRINT)
 
 # scPRINT: Large Cell Model for scRNAseq data
 
